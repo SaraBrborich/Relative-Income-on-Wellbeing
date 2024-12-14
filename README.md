@@ -1,6 +1,6 @@
 # Determinants of Subjective Well-Being: A Data-Driven Analysis
 
-This repository contains all materials, data, and code related to the analysis of subjective well-being determinants using econometric methods and survey data from the **Encuesta de Condiciones de Vida (ECV)** provided by INEC.
+This repository contains code related to analyzing subjective well-being determinants using econometric methods and survey data from the Encuesta de Condiciones de Vida (ECV)** provided by INEC.
 
 ## Project Overview
 
@@ -33,21 +33,4 @@ The primary objective of this project is to explore the factors influencing subj
 ## Repository Contents
 
 - **Code**:
-  - `data_cleaning.do`: Stata script for data cleaning and preparation.
-  - `analysis.do`: Stata script for econometric analysis and exporting results.
-
-## Research Findings
-
-Key findings include:
-- Absolute income positively correlates with happiness, while relative income has a significant negative impact.
-- Other influential factors include education, gender, and family importance.
-- Insights align with existing literature on positional concerns and subjective well-being.
-
-## Usage
-
-To replicate the analysis:
-1. Clone this repository.
-2. Install required software (Stata 17 or higher).
-3. Run the `.do` scripts in the provided order:
-   - `data_cleaning.do`
-   - `analysis.do`
+  - `codes.do`: Stata script for data cleaning and preparation.
