@@ -1,6 +1,6 @@
 # Determinants of Subjective Well-Being: A Data-Driven Analysis
 
-This repository contains code related to analyzing subjective well-being determinants using econometric methods and survey data from the Encuesta de Condiciones de Vida (ECV)** provided by INEC.
+This repository contains the code used for the final project on Econometrics II class, which focuses on analyzing subjective well-being determinants using econometric methods and survey data from the Encuesta de Condiciones de Vida (ECV)** provided by INEC.
 
 ## Project Overview
 
@@ -25,10 +25,6 @@ The primary objective of this project is to explore the factors influencing subj
    - Regression models, including Tobit models for censored data.
    - Examination of absolute and relative income impacts on happiness.
    - Robustness checks and alternative model specifications.
-
-4. **Results Interpretation**:
-   - Statistical insights on the relative importance of various determinants of well-being.
-   - Policy implications and potential avenues for future research.
 
 ## Repository Contents
 
